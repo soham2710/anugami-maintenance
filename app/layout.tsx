@@ -9,9 +9,9 @@ export const metadata: Metadata = {
   description:
     "Anugami Premium Marketplace is currently under maintenance. We'll be back soon!",
   icons: {
-    icon: "/favicon.ico",                 // default 32×32
-    shortcut: "/favicon.ico",
-    apple: "/apple-touch-icon.png",       // if you have one
+    icon: "/logo.png",                 // default 32×32
+    shortcut: "/logo.png",
+    apple: "/logo.png",       // if you have one
   },
 };
 
