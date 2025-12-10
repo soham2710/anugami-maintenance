@@ -169,9 +169,9 @@ export default function MaintenancePage() {
                       href="mailto:support@anugami.com" 
                       className="text-xl text-orange-600 hover:text-orange-700 font-bold inline-block transition-colors"
                     >
-                      support@anugami.com
+                      customercare@anugami.com
                     </a>
-                    <p className="text-sm text-gray-600 mt-2">We&apos;ll respond within 24 hours</p>
+                    <p className="text-sm text-gray-600 mt-2">We&apos;ll respond within 24 - 48 hours</p>
                   </div>
 
                   {/* Phone Contact (Optional - uncomment if needed) */}
